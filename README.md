@@ -8,7 +8,7 @@ Source/load the extension right before `subnixr/minimal`.
 
 An example with [zplug](https://github.com/zplug/zplug):
 
-    MINIMAL_OK_COLOR=2
+    MINIMAL_GIT_AHEAD_COLOR=3
     zplug "samhh/minimal-colorful-git-status"
     zplug "subnixr/minimal"
     zplug load
